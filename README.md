@@ -35,4 +35,4 @@ Here a webapp to analyze the data:
 | [`Celltype_prioritization`](Celltype_prioritization/) | Code for cell type prioritization | 11_AUGUR.R |
 | [`DGE`](output_dge/) | Code for DGE analyses | 13_DGE_MaleVsFemale_Rerun.R \ 13_DGE_StimvsCtrl_Rerun.R \ 13a_DGE_Male_DSS_Ctrl.R \ 13b_DGE_Female_DSS_Ctrl.R|
 | [`GO`](GO/) | Code for GO | 14_GO_ToppGene.R |
-| [`Cell2Cell_Signaling`](Cell2Cell_Signaling/) | Code for cell to cell signaling | 14_GO_ToppGene.R |
+| [`Cell2Cell_Signaling`](Cell2Cell_Signaling/) | Code for cell to cell signaling | 12_CellChat_Subset(CtrlvsDSS) |
