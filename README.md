@@ -1,5 +1,5 @@
 # FavuzziEtAl_snRNA_mInsularCortex
-Single Nuclei Mouse Insular Cortex - snRNAseq Data Analysis Code
+Single Nuclei Mouse Insular Cortex Data Analysis Code
 
 **Sensory neurons gate a cortical plasticity window for immune encoding**
 ==========================
