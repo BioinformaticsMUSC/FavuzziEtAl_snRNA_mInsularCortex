@@ -16,12 +16,6 @@ Pre-print URL: https://www.biorxiv.org/content/10.64898/2026.11.02.763631v1
 
 Here a webapp to analyze the data:
 
-[Pryce etal SingleCell Mouse KPP Negative](https://bioinformatics-musc.shinyapps.io/Pryce-et-al_SingleCell_Mouse_KPP_Negative/)
-
-[Pryce etal SingleCell Mouse KPP Positive](https://bioinformatics-musc.shinyapps.io/Pryce-et-al_SingleCell_Mouse_KPP_Positive/)
-
-[Pryce etal SingleCell Human Cachexia Negative](https://bioinformatics-musc.shinyapps.io/Pryce-et-al_SingleCell_Human_Cachexia_Negative/)
-
-[Pryce etal SingleCell Human_Cachexia Positive](https://bioinformatics-musc.shinyapps.io/Pryce-et-al_SingleCell_Human_Cachexia_Positive/)
+[Single Nuclei Mouse Insular Cortex study](https://bioinformatics-musc.shinyapps.io/Favuzzi_snRNA_mm_InsCortex_Preliminary/)
 
 ## Files
