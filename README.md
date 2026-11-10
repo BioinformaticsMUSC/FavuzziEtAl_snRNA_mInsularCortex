@@ -1,9 +1,12 @@
+
 # FavuzziEtAl_snRNA_mInsularCortex
 Single Nuclei Mouse Insular Cortex Data Analysis Code
 
 **Sensory neurons gate a cortical plasticity window for immune encoding**
 
 Activity-dependent plasticity allows brain circuits to encode experience, but this has been established with brief stimuli. Immune responses develop over days and are represented in the insular cortex (IC). How the cortex encodes experiences with this temporal structure is unknown. Here we show that Trpv1+ sensory neurons open a multi-day cortical plasticity window matched to the immune response. Following peripheral immune challenges, Parvalbumin-expressing inhibitory interneurons are activated first, restricting plasticity. Vasoactive intestinal peptide-expressing interneurons respond two days later, disinhibiting IC excitatory neurons. Weaker challenges trigger the first phase but not the second, and preventing the transition blocks immune encoding, whereas lowering inhibition beforehand does not. These results identify a body-to-brain mechanism that gates cortical plasticity on the timescale of slowly evolving physiological experience.
+
+<img width="1230" height="1280" alt="F1" src="https://github.com/user-attachments/assets/5a747fce-a0c9-4181-82ea-2b88f2bd8483" />
 
 This repository contains analysis code for the single cell RNA-seq project carried out by researchers 
 at the [Favuzzi lab, Yale University](https://www.favuzzilab.com/) and [Berto Lab, MUSC](https://bertolab.org/)
